@@ -1,4 +1,4 @@
-# Ercan Alpay Otomotiv & İnşaat
+# Ercan Otomotiv
 
 Premium tek sayfalık tanıtım sitesi — lüks otomotiv ve inşaat hizmetleri.
 
@@ -8,14 +8,8 @@ Premium tek sayfalık tanıtım sitesi — lüks otomotiv ve inşaat hizmetleri.
 ```
 vercel --prod
 ```
-(proje adı sorulduğunda `ercan-alpay-otomotiv` yazabilirsin)
 
 **GitHub:**
 ```
-gh repo create ercan-alpay-otomotiv --public --source=. --push
-```
-veya manuel:
-```
-git remote add origin https://github.com/<kullanici-adin>/ercan-alpay-otomotiv.git
 git push -u origin main
 ```
